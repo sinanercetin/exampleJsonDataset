@@ -50,8 +50,7 @@
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)"
-  }
-   ,
+  },
   {
     "yer_adi": "Tersane",
     "aciklama": "1960’lı yıllara kadar içinde tekne yapımının ve onarımının devam ettiği tersane, bugün denizcilik ve gemi konusunun işlendiği bir müze olarak hizmet vermektedir. Girişten itibaren ahşap bir yürüyüş yolu üzerinde yürürken 1.gözde 1 adet antik dönem vinci, 2.gözde Osmanlı donanmasında her dönemde lojistik ve ikmal için kullanılan hızlı yol alabilen bir yelkenli olan 1 adet kaplaması yapılmamış çekevele teknesi, 1adet mizena (teknenin kıç bölümünde yer alan direk) ve 1adet seren(direk üzerinde yelken açmak için yatay olarak konulan parça), 3.gözde 1 adet ana direk(teknenin en uzun direği), gemi yapımında kullanılan aletler ve tatlı su kuyusu, 4.gözde antik çağ çıpaları, 5.gözde gemilerde yön belirlemede kullanılan aletleri görebilirsiniz.",
@@ -61,5 +60,15 @@
      "kaynak":"https://www.alanya.bel.tr/S/427/Tersane, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"Bilinmiyor (2020)"
+  },
+  {
+    "yer_adi": "Kleopatra Plajı",
+    "aciklama": "Tarihi yarımadanın batısında, Damlataş Mağarasının önündeki kıyıdadır. Mavi Bayraklıdır. Kumsal sırtını yarımadanın eteklerine dayamıştır. Kayalarla çevrili havuz görünümündeki bu doğal plaj, Mısır kraliçesi Kleopatra ile Roma İmparatoru Antonius’un burada yüzmüş olması ile ünlüdür. Plajın yarımadaya doğru uzanan ve iri taşlardan oluşan küçük koyu Kleopatra adıyla anılır. Kleopatra Koyunun özelliği suyunun berraklığıdır. Deniz gözlüğü ile yüzüldüğünde balıkları ve deniz dibinin doğal güzelliklerini seyretmek söz konusudur.",
+     "foto": "https://www.geziantalya.com/wp-content/uploads/2020/01/alanya-kleopatra-plaji-1.jpg",
+    "adres":"Alanya / Antalya",
+     "foto_detay":"https://www.geziantalya.com/wp-content/uploads/2020/01/alanya-kleopatra-plaji-1.jpg",
+     "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
+      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ucret":"Ücretsiz"
   }
 ]
