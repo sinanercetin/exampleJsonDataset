@@ -1,0 +1,33 @@
+[
+   {
+    "yer_adi": "Alanya Jeep Safari",
+    "aciklama": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
+    "foto": "https://www.alanya.bel.tr/Photos/Gallery/Photos/647694912.JPG",
+    "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
+     "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
+     "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
+      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ucret":"30 ₺ (2020)" 
+
+  },
+  {
+    "yer_adi": "Yat Turu",
+    "aciklama": "13.yy ortaçağ Akdeniz savunma yapılarının eşsiz bir örneği olan Kızılkule",
+    "foto": "https://www.alanya.bel.tr/Photos/Pages/495632352.jpg",
+    "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
+     "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
+     "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
+      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ucret":"30 ₺ (2020)"
+  },
+  {
+    "yer_adi": "Dim Çayı Kahvaltı",
+    "aciklama": "13.yy ortaçağ Akdeniz savunma yapılarının eşsiz bir örneği olan Kızılkule",
+    "foto": "https://www.alanya.bel.tr/Photos/Pages/495632352.jpg",
+    "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
+     "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
+     "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
+      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ucret":"30 ₺ (2020)"
+  }  
+]
