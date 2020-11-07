@@ -2,7 +2,7 @@
    {
     "etkinlik_adi": "Alanya Jeep Safari",
     "aciklama": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
-    "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/safari.jpg",
+    "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/jeep_safari.jpg",
     "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
@@ -13,7 +13,7 @@
   {
     "etkinlik_adi": "Yat Turu",
     "aciklama": "13.yy ortaçağ Akdeniz savunma yapılarının eşsiz bir örneği olan Kızılkule",
-    "foto": "https://www.alanya.bel.tr/Photos/Pages/495632352.jpg",
+    "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/yat_turu.jpeg",
     "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
