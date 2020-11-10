@@ -9,7 +9,7 @@
     "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
-      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ne_zaman":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)" 
 
   },
@@ -23,7 +23,7 @@
     "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
-      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ne_zaman":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)"
   },
   {
@@ -36,20 +36,20 @@
     "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
-      "tatil_gunu":"Hergün ziyaret edilebilir",
+      "ne_zaman":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)"
   },
    {
-    "etkinlik_adi": "Trekking - Alara Kalesi",
-    "aciklama_1": "Alara Kalesi, Alanya'nın Avsallar kasabasında/mahallesinde bulunmaktadır. Selçuklu Sultanı Alaaddin Keykubat tarafından 1232’de yeniden imar edilerek, içerisinde bulunan Bizans kalıntıları da korunarak, bugünkü görünümüne kavuşturulmuştur. Kale, döneminde bulunan ana ticaret yolunu ve Alara Hanı’nı korumak için yapılmıştır. Ticari gemilerin o dönemde kale önüne kadar geldiği düşünülmektedir.",
-    "aciklama_2": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
-    "aciklama_3": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
-    "aciklama_4": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
-    "foto": "https://www.alanya.bel.tr/Photos/Pages/495632352.jpg",
-    "adres":"Hisariçi Mh., 07400 Alanya/Antalya",
-     "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
-     "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
-      "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"30 ₺ (2020)"
+    "etkinlik_adi": "Alara Kalesi Trekking",
+    "aciklama_1": "Alara Kalesi, Alanya'nın Avsallar kasabasında/mahallesinde bulunmaktadır. Kale, Alanya’nın 37 km batısında ve denizden 9 km içeridedir. Selçuklu Sultanı Alaaddin Keykubat tarafından 1232’de yeniden imar edilerek, içerisinde bulunan Bizans kalıntıları da korunarak, bugünkü görünümüne kavuşturulmuştur. Kale, döneminde bulunan ana ticaret yolunu ve Alara Hanı’nı korumak için yapılmıştır. Ticari gemilerin o dönemde kale önüne kadar geldiği düşünülmektedir.",
+    "aciklama_2": "Alara Kalesine çıkarken yanınızda mutlaka su bulundurun. Çünkü oldukça yüksek. Giyiminizi de etrafta çalıların olduğunu düşünerek yapın. Çıkarken tarihi kalıntılarla da karşılaşacaksınız.",
+    "aciklama_3": "Ama çıktıktan sonra gerçekten eşsiz bir manzara sizi bekliyor. En tepeye çıktığınızda kalenin bir tarafının uçurum olduğunu göreceksiniz. Dikkatli olun.",
+    "aciklama_4": "Eğer yaz mevsiminde gittiyseniz indiğinizde buz gibi Alara çayına girin. Çünkü epeyce bir yorulmuş olacaksınız.",
+    "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/alara_kalesi_1.jpg",
+    "adres":"Avsallar Kasabası",
+     "foto_detay":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/alara_kalesi_1.jpg",
+     "kaynak":"",
+      "ne_zaman":"Hergün ve her mevsim ziyaret edilebilir",
+      "ucret":"Ücretsiz"
   } 
 ]
