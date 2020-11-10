@@ -1,10 +1,10 @@
 [
    {
-    "etkinlik_adi": "Dim Çayı Kahvaltı",
+    "havalimani_adi": "Dim Çayı Kahvaltı",
     "aciklama": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/Alanya_Gazipasa_Havalimani.jpg",
     "adres":"Gazipaşa, Alanya, 07900 Alanya/Gazipaşa/Antalya",
-    "internet_sitesi": "http://www.gzpairport.com/tr-TR/",
+    "havalimani_link": "http://www.gzpairport.com/tr-TR/",
     "kayip_esya" : "Kayıp Eşya ofisi, terminal binası gelen yolcu bagaj alım salonunda bulunmaktadır. +90 242 582 7325 ya da gzpll@havas.net",
     "ulasim_firma": "Havaş",
     "ulasim_link" : "http://www.havas.net/tr/Hizmetlerimiz/OtobusHizmetleriVeOtopark/OtobusServisNoktalari/Pages/Gazipasa.aspx",
