@@ -5,13 +5,14 @@
     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/Alanya_Gazipasa_Havalimani.jpg",
     "adres":"Gazipaşa, Alanya, 07900 Alanya/Gazipaşa/Antalya",
     "internet_sitesi": "http://www.gzpairport.com/tr-TR/",
-    "ulasim" : "",
+    "kayip_esya" : "Kayıp Eşya ofisi, terminal binası gelen yolcu bagaj alım salonunda bulunmaktadır. +90 242 582 7325 ya da gzpll@havas.net"
+    "ulasim_firma" : "Havaş",
     "ulasim_link" : "http://www.havas.net/tr/Hizmetlerimiz/OtobusHizmetleriVeOtopark/OtobusServisNoktalari/Pages/Gazipasa.aspx",
     "sehir_kalkis" : "Alanya Otogar yanı Petrol Ofisi önü",
     "havalimani_kalkis": "Havalimanı yolcu çıkışının karşısında",
     "ulasim_tel" : "0850 222 0 487",
     "yolcu_alma_noktalari" : "Otogar Yanı Göçmentürk Petrol Ofisi, Kale Market Karşısı , Ticaret Odası Önü, Makro Market Karşısı, Çimen Otel Karşısı, Tespo Önü, Alanyum Karşısı Shell Petrol, Metro Kavşağı Durak, Koçtaş Karşısı, Tosmur Belediye Önü, Alantur Durak, Yüceller Petrol Karşısı, Kestel Üniversite Sahil Durak, Mahmutlar Belediye Sahil Durak, Mehmet Çakır Caddesi Sahil Durak, Doris Aytur Karşısı Sahil Durak, Titan Otel Karşısı ",
-    "yolcu_indirme_noktalari" : "Kargıcak Titan Otel, Doris Aytur, Mehmet Çakır Caddesi, Mahmutlar Belediye Işıkları, Happy Elegant Otel, Kestel Total Petrol, Kestel Üniversite Yolu, Yüceller Petrol, Alantur Durak, Tosmur Belediye Karşısı Opet, Koçtaş, Metro Kavşağı, Alanyum AVM, Yalı Taksi, Çimen Otel, Makro Market, Ticaret Odası Karşısı, Kale Market, Grand Zaman Otel, Otogar "
-    
+    "yolcu_indirme_noktalari" : "Kargıcak Titan Otel, Doris Aytur, Mehmet Çakır Caddesi, Mahmutlar Belediye Işıkları, Happy Elegant Otel, Kestel Total Petrol, Kestel Üniversite Yolu, Yüceller Petrol, Alantur Durak, Tosmur Belediye Karşısı Opet, Koçtaş, Metro Kavşağı, Alanyum AVM, Yalı Taksi, Çimen Otel, Makro Market, Ticaret Odası Karşısı, Kale Market, Grand Zaman Otel, Otogar ",
+    "sure" : "Yaklaşık olarak 1 saat sürmektedir"    
   }
 ]
