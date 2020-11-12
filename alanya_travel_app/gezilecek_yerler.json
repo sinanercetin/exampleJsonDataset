@@ -8,7 +8,8 @@
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"30 ₺ (2020)" 
+      "ucret":"30 ₺ (2020)",
+      "harita" : "https://www.google.com/maps/place/36%C2%B031'56.6%22N+31%C2%B059'27.9%22E/@36.532376,31.9905258,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d36.5323756!4d31.9910727"
 
   },
   {
@@ -19,7 +20,8 @@
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"30 ₺ (2020)"
+      "ucret":"30 ₺ (2020)",
+      "harita" : ""
   },
   {
     "yer_adi": "Sapadere Kanyonu",
@@ -29,7 +31,8 @@
      "foto_detay":"https://www.alanyatours.org/wp-content/uploads/2018/08/sapadere-canyon-alanya.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"30 ₺ (2020)"
+      "ucret":"30 ₺ (2020)",
+      "harita" : ""
   },
   {
     "yer_adi": "Damlataş Mağarası",
@@ -39,7 +42,8 @@
      "foto_detay":"https://www.alanya.bel.tr/Photos/Pages/422374912.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/567/Damlatas-Magarasi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"00 ₺ (2020)"
+      "ucret":"00 ₺ (2020)",
+      "harita" : ""
   },
   {
     "yer_adi": "Dim Mağarası",
@@ -49,7 +53,8 @@
      "foto_detay":"https://www.kulturportali.gov.tr/contents/images/20190508153717300_hazel%20thompson%20alanya%20kalesi.jpg",
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"30 ₺ (2020)"
+      "ucret":"30 ₺ (2020)",
+      "harita" : ""
   },
   {
     "yer_adi": "Tersane",
@@ -59,7 +64,8 @@
      "foto_detay":"https://www.alanya.bel.tr/Photos/Gallery/Photos/464927328.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/427/Tersane, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"Bilinmiyor (2020)"
+      "ucret":"Bilinmiyor (2020)",
+      "harita" : ""
   },
   {
     "yer_adi": "Kleopatra Plajı",
@@ -69,7 +75,8 @@
      "foto_detay":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/alanya_travel_app/images/kleopatra_plaji/kleopatra_plaji_1.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
-      "ucret":"Ücretsiz"
+      "ucret":"Ücretsiz",
+      "harita" : ""
   },
   {
     "yer_adi": "Alanya Arkeoloji Müzesi",
@@ -79,7 +86,8 @@
      "foto_detay":"https://www.alanya.bel.tr/Photos/Pages/22976100.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Pazartesi Hariç",
-      "ucret":"??"
+      "ucret":"??",
+      "harita" : ""
   },
   {
     "yer_adi": "Alara Kalesi",
@@ -89,7 +97,8 @@
      "foto_detay":"https://www.alanya.bel.tr/Photos/Pages/307857696.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Her gün ziyaret edilebilir",
-      "ucret":"Ücretsiz"
+      "ucret":"Ücretsiz",
+      "harita" : ""
   },
   {
     "yer_adi": "Syedra Antik Kenti",
@@ -99,6 +108,7 @@
      "foto_detay":"https://www.alanya.bel.tr/Photos/Gallery/Photos/216222112.jpg",
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Her gün ziyaret edilebilir",
-      "ucret":"Ücretsiz"
+      "ucret":"Ücretsiz",
+      "harita" : ""
   }
 ]
