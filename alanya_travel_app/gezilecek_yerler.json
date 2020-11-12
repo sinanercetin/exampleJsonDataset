@@ -21,7 +21,7 @@
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/place/K%C4%B1z%C4%B1lkule/@36.5366253,31.9988218,20z/data=!4m5!3m4!1s0x0:0x318980d2f1468f07!8m2!3d36.5364529!4d31.9982858"
   },
   {
     "yer_adi": "Sapadere Kanyonu",
@@ -32,8 +32,8 @@
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)",
-      "harita" : ""
-  },
+     "harita" : "https://www.google.com/maps/place/Sapadere+Kanyonu/@36.5263106,32.3136147,20z/data=!4m22!1m16!4m15!1m6!1m2!1s0x14dca27b822cd5fb:0xd160c1c8b3dc170b!2sAlanya,+Antalya!2m2!1d31.995408!2d36.544443!1m6!1m2!1s0x0:0xd02d26afb0329bf8!2sSapadere+Kanyonu!2m2!1d32.3129691!2d36.5279837!3e0!3m4!1s0x14dc8104b3f454b3:0xa46f554a1034cb1d!8m2!3d36.5260021!4d32.313663"
+ },
   {
     "yer_adi": "Damlataş Mağarası",
     "aciklama": "Damlataş Mağarası 1948 yılında, liman inşaatında kullanılacak taş için ocak açılması sırasında bulunmuştur. Mağara tarihi yarımadanın batı kıyısındadır. Mağaranın giriş kısmında 50 metrelik bir geçit vardır. Yüksekliği 15 metreyi bulan geçitten sonra silindirik bir boşluğa gelinir. Buradan, mağaranın tabanına inilir. Yan kristalize kalker içinde bulunan mağaranın sarkıt ve dikitleri 15 bin yılda oluşmuştur. Mağaraya, sarkıtlardan damlamaya devam eden su damlaları nedeniyle Damlataş adı verilmiştir. Yerli ve yabancı turistlerin gözdesi Damlataş Mağarası, büyüleyici güzelliğinin yanı sıra astım hastalarına iyi gelen havasıyla da ünlüdür. Doktor kontrolünde, mağarada belli bir süre oturarak 21 günlük tedavi kürü uygulayan hastalar vardır. Mağaranın havası yaz kış değişmez; sıcaklık 22 santigrat derece, rutubet yüzde 95, sabit basınç 760 mm’dir. Mağaranın havasında yüzde 71 azot, yüzde 20,5 oksijen, on binde 2,5 karbondioksit ve bir miktar radyoaktivite ile iyonlar bulunmaktadır. Mağaraya giriş ücretlidir. Çevresinde küçük bir çarşı vardır, önü ise plajdır.",
@@ -43,7 +43,7 @@
      "kaynak":"https://www.alanya.bel.tr/S/567/Damlatas-Magarasi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"00 ₺ (2020)",
-      "harita" : ""
+     "harita" : "https://www.google.com/maps/place/36%C2%B032'33.4%22N+31%C2%B059'17.8%22E/@36.5426111,31.9877306,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d36.5426124!4d31.9882651"
   },
   {
     "yer_adi": "Dim Mağarası",
@@ -54,7 +54,7 @@
      "kaynak":"https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/alanya-kalesi, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"30 ₺ (2020)",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/place/Dim+Ma%C4%9Faras%C4%B1/@36.5400158,32.108951,18z/data=!4m5!3m4!1s0x0:0x2a0ce49d9d5b0e67!8m2!3d36.5399786!4d32.1090235"
   },
   {
     "yer_adi": "Tersane",
@@ -76,7 +76,7 @@
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Hergün ziyaret edilebilir",
       "ucret":"Ücretsiz",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/place/36%C2%B032'44.0%22N+31%C2%B059'05.2%22E/@36.5455556,31.9842306,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x14dca29c09bed395:0x38505129c58a3a62!2sKleopatra+Plaj%C4%B1!3b1!8m2!3d36.5422518!4d31.9872234!3m5!1s0x0:0x0!7e2!8m2!3d36.5455589!4d31.9847707"
   },
   {
     "yer_adi": "Alanya Arkeoloji Müzesi",
@@ -87,7 +87,7 @@
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Pazartesi Hariç",
       "ucret":"??",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/place/Alanya+Arkeoloji+M%C3%BCzesi/@36.5435146,31.9877248,19z/data=!3m1!4b1!4m12!1m6!3m5!1s0x14dca29ced8d8d5f:0x169ded1d41520ec6!2sAlanya+Arkeoloji+M%C3%BCzesi!8m2!3d36.5435146!4d31.988272!3m4!1s0x14dca29ced8d8d5f:0x169ded1d41520ec6!8m2!3d36.5435146!4d31.988272"
   },
   {
     "yer_adi": "Alara Kalesi",
@@ -98,7 +98,18 @@
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Her gün ziyaret edilebilir",
       "ucret":"Ücretsiz",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/place/Alara+Kalesi/@36.6979091,31.7264551,17z/data=!4m5!3m4!1s0x14dca95e23c7e527:0x7ba6fb6f4f89c258!8m2!3d36.6979091!4d31.7286437"
+  },
+   {
+    "yer_adi": "Alara Han",
+    "aciklama": "Alanya’nın 37 km batısında, denizden 9 km içeride bulunan kale; Selçuklu Sultanı Alaaddin Keykubat tarafından 1232’de yeniden imar edilerek, içerisinde bulunan Bizans kalıntıları da korunarak, bugünkü görünümüne kavuşturulmuştur. Kale, döneminde bulunan ana ticaret yolunu ve Alara Hanı’nı korumak için yapılmıştır. Ticari gemilerin o dönemde kale önüne kadar geldiği düşünülmektedir.",
+     "foto": "https://www.alanya.bel.tr/Photos/Pages/307857696.jpg",
+    "adres":"Alanya / Antalya",
+     "foto_detay":"https://www.alanya.bel.tr/Photos/Pages/307857696.jpg",
+     "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
+      "tatil_gunu":"Her gün ziyaret edilebilir",
+      "ucret":"Ücretsiz",
+      "harita" : "https://www.google.com/maps/place/Alarahan/@36.6923593,31.7229913,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0xec95a01630e029c9!8m2!3d36.6923593!4d31.7239116"
   },
   {
     "yer_adi": "Syedra Antik Kenti",
@@ -109,6 +120,6 @@
      "kaynak":"https://www.alanya.bel.tr/S/577/Kleopatra-Plaji, Ekim 2020",
       "tatil_gunu":"Her gün ziyaret edilebilir",
       "ucret":"Ücretsiz",
-      "harita" : ""
+      "harita" : "https://www.google.com/maps/@36.4445211,32.1493575,17z/data=!4m5!3m4!1s0x14dc9040d19d4c35:0x4186dfbb36ca3ea0!8m2!3d36.4445525!4d32.1495728"
   }
 ]
