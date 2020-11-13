@@ -1,5 +1,6 @@
 [
    {
+      "etkinlik_id" : 0,
     "etkinlik_adi": "Alanya Jeep Safari",
     "aciklama_1": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
     "aciklama_2": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
@@ -14,6 +15,7 @@
 
   },
   {
+     "etkinlik_id" : 1,
     "etkinlik_adi": "Yat Turu",
     "aciklama_1": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
     "aciklama_2": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
@@ -27,6 +29,7 @@
       "ucret":"30 ₺ (2020)"
   },
   {
+     "etkinlik_id" : 2,
     "etkinlik_adi": "Dim Çayı Kahvaltı",
     "aciklama_1": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
     "aciklama_2": "6km uzunlukta surlar tarafından çevrilmiş, 10 hektarlık bir yarımada üzerinde bulunan Alanya Kalesi; Helenistik",
@@ -40,6 +43,7 @@
       "ucret":"30 ₺ (2020)"
   },
    {
+      "etkinlik_id" : 3,
     "etkinlik_adi": "Alara Kalesi Trekking",
     "aciklama_1": "Alara Kalesi, Alanya'nın Avsallar kasabasında/mahallesinde bulunmaktadır. Kale, Alanya’nın 37 km batısında ve denizden 9 km içeridedir. Selçuklu Sultanı Alaaddin Keykubat tarafından 1232’de yeniden imar edilerek, içerisinde bulunan Bizans kalıntıları da korunarak, bugünkü görünümüne kavuşturulmuştur. Kale, döneminde bulunan ana ticaret yolunu ve Alara Hanı’nı korumak için yapılmıştır. Ticari gemilerin o dönemde kale önüne kadar geldiği düşünülmektedir.",
     "aciklama_2": "Alara Kalesine çıkarken yanınızda mutlaka su bulundurun. Çünkü oldukça yüksek. Giyiminizi de etrafta çalıların olduğunu düşünerek yapın. Çıkarken tarihi kalıntılarla da karşılaşacaksınız.",
