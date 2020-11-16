@@ -1,0 +1,25 @@
+[
+  {
+       "gida_id" : 1,
+      "gida_adi" : "Kabak Çekirdeği",
+      "olcu" : "100 gr",
+      "enerji": "602",
+      "karbonhidrat": "11.4",
+      "protein" : "30.4",
+      "yag" : "47",
+      "kalsiyum" : "40",
+      "demir" : "9.2"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Çekirdek - Ayçiçek",
+      "olcu" : "100 gr",
+      "enerji": "589",
+      "karbonhidrat": "14.5",
+      "protein" : "25",
+      "yag" : "45",
+      "kalsiyum" : "100",
+      "demir" : "7.5"
+    }    
+]
+
