@@ -1,0 +1,35 @@
+[
+   {
+     "gida_id" : 1,
+    "gida_adi" : "Sığır Eti",
+    "olcu" : "Bir Porsiyon - Kemiksiz",
+    "enerji": "240",
+    "karbonhidrat": "0",
+    "protein" : "18.7",
+    "yag" : "18.2",
+    "kalsiyum" : "8",
+    "demir" : "2.6"
+  },
+  {
+     "gida_id" : 2,
+    "gida_adi" : "Koyun Eti",
+    "olcu" : "Bir Porsiyon - Kemiksiz",
+    "enerji": "267",
+    "karbonhidrat": "0",
+    "protein" : "17",
+    "yag" : "21",
+    "kalsiyum" : "7",
+    "demir" : "2.2"
+  },
+  {
+     "gida_id" : 3,
+    "gida_adi" : "Tavuk",
+    "olcu" : "Bir Porsiyon - Kemiksiz",
+    "enerji": "149",
+    "karbonhidrat": "0",
+    "protein" : "19",
+    "yag" : "8",
+    "kalsiyum" : "15",
+    "demir" : "1.5"
+  }
+]
