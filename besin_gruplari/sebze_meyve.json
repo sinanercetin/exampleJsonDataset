@@ -1,0 +1,24 @@
+[
+  {
+       "gida_id" : 1,
+      "gida_adi" : "Bakla",
+      "olcu" : "13 Adet",
+      "enerji": "72",
+      "karbonhidrat": "9.8",
+      "protein" : "5.4",
+      "yag" : "0.4",
+      "kalsiyum" : "48",
+      "demir" : "1"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Bamya",
+      "olcu" : "100 gr",
+      "enerji": "47",
+      "karbonhidrat": "8.7",
+      "protein" : "2.2",
+      "yag" : "0.2",
+      "kalsiyum" : "78",
+      "demir" : "1.1"
+    }    
+]
