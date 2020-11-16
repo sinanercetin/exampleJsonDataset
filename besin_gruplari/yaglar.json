@@ -1,0 +1,24 @@
+[
+  {
+       "gida_id" : 1,
+      "gida_adi" : "Tereyağı - Kahvaltılık",
+      "olcu" : "100 gr",
+      "enerji": "750",
+      "karbonhidrat": "0",
+      "protein" : "1",
+      "yag" : "82.9",
+      "kalsiyum" : "19",
+      "demir" : "0.2"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Margarin",
+      "olcu" : "100 gr",
+      "enerji": "736",
+      "karbonhidrat": "0",
+      "protein" : "0.6",
+      "yag" : "81",
+      "kalsiyum" : "4",
+      "demir" : "0"
+    }    
+]
