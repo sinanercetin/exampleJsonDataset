@@ -2,7 +2,7 @@
   {
        "gida_id" : 1,
       "gida_adi" : "Kabak Çekirdeği",
-      "foto" : "",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kabak_cekirdegi.jpg",
       "olcu" : "100 gr",
       "enerji": "602",
       "karbonhidrat": "11.4",
@@ -14,7 +14,7 @@
     {
        "gida_id" : 2,
       "gida_adi" : "Çekirdek - Ayçiçek",
-      "foto" : "",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/cekirdek_aycicek.jpg",
       "olcu" : "100 gr",
       "enerji": "589",
       "karbonhidrat": "14.5",
