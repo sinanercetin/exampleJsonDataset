@@ -1,7 +1,7 @@
 [
    {
      "gida_id" : 1,
-    "gida_adi" : "Sığır Eti",
+    "gida_adi" : "Sığır Eti (Orta Yağlı)",
       "foto": "https://www.alanya.bel.tr/Photos/Gallery/Photos/647694912.JPG",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "240",
@@ -13,7 +13,7 @@
   },
   {
      "gida_id" : 2,
-    "gida_adi" : "Koyun Eti",
+    "gida_adi" : "Koyun Eti (Orta Yağlı)",
      "foto": "https://www.alanya.bel.tr/Photos/Gallery/Photos/647694912.JPG",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "267",
