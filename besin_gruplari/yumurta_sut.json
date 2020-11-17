@@ -2,6 +2,7 @@
   {
        "gida_id" : 1,
       "gida_adi" : "Tavuk Yumurtası",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tavuk_yumurtasi.jpg",
       "olcu" : "100 gr",
       "enerji": "159",
       "karbonhidrat": "0.7",
@@ -13,6 +14,7 @@
     {
        "gida_id" : 2,
       "gida_adi" : "Bıldırcın Yumurtası",
+      "foto": "https://github.com/sinanercetin/exampleJsonDataset/blob/main/besin_gruplari/images/bildircin_yumurtasi.jpg",
       "olcu" : "100 gr",
       "enerji": "158",
       "karbonhidrat": "0.4",
@@ -24,6 +26,7 @@
   {
        "gida_id" : 3,
       "gida_adi" : "İnek Sütü",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/inek_sutu.jpg",
       "olcu" : "1 Çay Bardağı",
       "enerji": "64",
       "karbonhidrat": "5.5",
@@ -35,6 +38,7 @@
     {
        "gida_id" : 4,
       "gida_adi" : "Keçi Sütü",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/inek_sutu.jpg",
       "olcu" : "1 Çay Bardağı",
       "enerji": "70",
       "karbonhidrat": "5",
