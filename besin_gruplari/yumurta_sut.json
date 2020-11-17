@@ -14,7 +14,7 @@
     {
        "gida_id" : 2,
       "gida_adi" : "Bıldırcın Yumurtası",
-      "foto": "https://github.com/sinanercetin/exampleJsonDataset/blob/main/besin_gruplari/images/bildircin_yumurtasi.jpg",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bildircin_yumurtasi.jpg",
       "olcu" : "100 gr",
       "enerji": "158",
       "karbonhidrat": "0.4",
