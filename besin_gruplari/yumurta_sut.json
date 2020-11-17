@@ -1,0 +1,25 @@
+[
+  {
+       "gida_id" : 1,
+      "gida_adi" : "Tavuk Yumurtası",
+      "olcu" : "100 gr",
+      "enerji": "159",
+      "karbonhidrat": "0.7",
+      "protein" : "12.8",
+      "yag" : "11.5",
+      "kalsiyum" : "54",
+      "demir" : "2.7"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Bıldırcın Yumurtası",
+      "olcu" : "100 gr",
+      "enerji": "158",
+      "karbonhidrat": "0.4",
+      "protein" : "13.1",
+      "yag" : "11.1",
+      "kalsiyum" : "64",
+      "demir" : "3.7"
+    }   
+    
+]
