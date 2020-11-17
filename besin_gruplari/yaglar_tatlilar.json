@@ -1,0 +1,49 @@
+{
+       "gida_id" : 1,
+      "gida_adi" : "Tereyağı - Kahvaltılık",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tereyagi.jpg",
+      "olcu" : "100 gr",
+      "enerji": "750",
+      "karbonhidrat": "0",
+      "protein" : "1",
+      "yag" : "82.9",
+      "kalsiyum" : "19",
+      "demir" : "0.2"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Margarin",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/margarin.jpg",
+      "olcu" : "100 gr",
+      "enerji": "736",
+      "karbonhidrat": "0",
+      "protein" : "0.6",
+      "yag" : "81",
+      "kalsiyum" : "4",
+      "demir" : "0"
+    },
+    {
+       "gida_id" : 3,
+      "gida_adi" : "Şeker",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/seker.jpg",
+      "olcu" : "100 gr",
+      "enerji": "380",
+      "karbonhidrat": "99.5",
+      "protein" : "0",
+      "yag" : "0",
+      "kalsiyum" : "0",
+      "demir" : "0"
+    },
+    {
+       "gida_id" : 4,
+      "gida_adi" : "Reçel",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "4-5 yemek kaşığı",
+      "enerji": "319",
+      "karbonhidrat": "75.1",
+      "protein" : "0",
+      "yag" : "0",
+      "kalsiyum" : "0",
+      "demir" : "0"
+    }    
+]    
