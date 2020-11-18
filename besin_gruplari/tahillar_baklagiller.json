@@ -1,0 +1,62 @@
+[
+  {
+       "gida_id" : 1,
+      "gida_adi" : "Buğday",
+      "foto": "",
+      "olcu" : "2/3 su bardağı",
+      "enerji": "354",
+      "karbonhidrat": "69.3",
+      "protein" : "11.5",
+      "yag" : "2.2",
+      "kalsiyum" : "36",
+      "demir" : "3.1"
+    },
+    {
+       "gida_id" : 2,
+      "gida_adi" : "Mısır",
+      "foto": "",
+      "olcu" : "2/3 su bardağı",
+      "enerji": "351",
+      "karbonhidrat": "72",
+      "protein" : "9.4",
+      "yag" : "4.2",
+      "kalsiyum" : "9",
+      "demir" : "2"
+    },
+    {
+      "gida_id" : 3,
+      "gida_adi" : "Bakla",
+      "foto": "",
+      "olcu" : "100 gr",
+      "enerji": "354",
+      "karbonhidrat": "53.7",
+      "protein" : "25",
+      "yag" : "1.8",
+      "kalsiyum" : "77",
+      "demir" : "6"
+    },
+    {
+      "gida_id" : 4,
+      "gida_adi" : "Barbunya",
+      "foto": "",
+      "olcu" : "100 gr",
+      "enerji": "346",
+      "karbonhidrat": "57",
+      "protein" : "21",
+      "yag" : "1",
+      "kalsiyum" : "128",
+      "demir" : "5.4"
+    },
+    {
+      "gida_id" : 5,
+      "gida_adi" : "Fasulye",
+      "foto": "",
+      "olcu" : "100 gr",
+      "enerji": "349",
+      "karbonhidrat": "55.9",
+      "protein" : "22.6",
+      "yag" : "1.6",
+      "kalsiyum" : "86",
+      "demir" : "7.6"
+    }
+]
