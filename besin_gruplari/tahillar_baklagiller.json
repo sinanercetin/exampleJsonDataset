@@ -14,7 +14,7 @@
     {
        "gida_id" : 2,
       "gida_adi" : "Mısır",
-      "foto": "https://github.com/sinanercetin/exampleJsonDataset/blob/main/besin_gruplari/images/misir.jpg",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/misir.jpg",
       "olcu" : "2/3 su bardağı",
       "enerji": "351",
       "karbonhidrat": "72",
