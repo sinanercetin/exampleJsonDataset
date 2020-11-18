@@ -26,7 +26,7 @@
     {
       "gida_id" : 3,
       "gida_adi" : "Bakla",
-      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bakla.jpg",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuru_bakla.jpg",
       "olcu" : "100 gr",
       "enerji": "354",
       "karbonhidrat": "53.7",
