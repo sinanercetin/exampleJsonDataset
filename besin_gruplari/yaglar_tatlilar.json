@@ -1,4 +1,5 @@
-{
+[
+   {
        "gida_id" : 1,
       "gida_adi" : "Tereyağı - Kahvaltılık",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tereyagi.jpg",
