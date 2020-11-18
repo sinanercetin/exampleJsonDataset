@@ -14,7 +14,7 @@
     {
        "gida_id" : 2,
       "gida_adi" : "Bamya",
-      "foto": "",
+      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bamya.jpg",
       "olcu" : "100 gr",
       "enerji": "47",
       "karbonhidrat": "8.7",
