@@ -1,7 +1,7 @@
 [
    {
      "gida_id" : 1,
-    "gida_adi" : "Sığır Eti (Orta Yağlı)",
+    "gida_adi" : "Sığır (Orta Yağlı)",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "240",
@@ -13,8 +13,8 @@
   },
   {
      "gida_id" : 2,
-    "gida_adi" : "Koyun Eti (Orta Yağlı)",
-     "foto": "https://www.alanya.bel.tr/Photos/Gallery/Photos/647694912.JPG",
+    "gida_adi" : "Koyun (Orta Yağlı)",
+     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "267",
     "karbonhidrat": "0",
@@ -25,8 +25,8 @@
   },
   {
      "gida_id" : 3,
-    "gida_adi" : "Tavuk",
-     "foto": "https://www.alanya.bel.tr/Photos/Gallery/Photos/647694912.JPG",
+    "gida_adi" : "Tavuk Eti",
+     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "149",
     "karbonhidrat": "0",
@@ -34,5 +34,30 @@
     "yag" : "8",
     "kalsiyum" : "15",
     "demir" : "1.5"
+  },
+   {
+     "gida_id" : 4,
+    "gida_adi" : "Balık (Orta Yağlı)",
+     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
+    "olcu" : "Bir Porsiyon",
+    "enerji": "149",
+    "karbonhidrat": "0",
+    "protein" : "19",
+    "yag" : "8",
+    "kalsiyum" : "50",
+    "demir" : "1.1"
+  },
+   {
+     "gida_id" : 5,
+    "gida_adi" : "Keçi (Orta Yağlı)",
+     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
+    "olcu" : "Bir Porsiyon",
+    "enerji": "157",
+    "karbonhidrat": "0",
+    "protein" : "18.4",
+    "yag" : "9.2",
+    "kalsiyum" : "1",
+    "demir" : "2.2"
   }
 ]
+
