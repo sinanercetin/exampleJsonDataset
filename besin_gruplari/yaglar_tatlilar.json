@@ -46,5 +46,104 @@
       "yag" : "0",
       "kalsiyum" : "0",
       "demir" : "0"
-    }    
-]    
+    },
+   {
+       "gida_id" : 5,
+      "gida_adi" : "Tahin Helva",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "3 Kibrit kutusu kadar",
+      "enerji": "516",
+      "karbonhidrat": "53.5",
+      "protein" : "10.5",
+      "yag" : "28",
+      "kalsiyum" : "91",
+      "demir" : "6"
+    },
+   {
+       "gida_id" : 6,
+      "gida_adi" : "Bal",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "4-5 yemek kaşığı",
+      "enerji": "315",
+      "karbonhidrat": "78.4",
+      "protein" : "0.3",
+      "yag" : "0",
+      "kalsiyum" : "15",
+      "demir" : "0.8"
+    },
+   {
+       "gida_id" : 7,
+      "gida_adi" : "Pekmez",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "6-7 yemek kaşığı",
+      "enerji": "293",
+      "karbonhidrat": "70.6",
+      "protein" : "0",
+      "yag" : "0.1",
+      "kalsiyum" : "400",
+      "demir" : "10"
+    },
+   {
+       "gida_id" : 8,
+      "gida_adi" : "Zeytinyağı",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "1 küçük çay bardağı",
+      "enerji": "900",
+      "karbonhidrat": "0",
+      "protein" : "0",
+      "yag" : "100",
+      "kalsiyum" : "0",
+      "demir" : "0"
+    },
+   {
+       "gida_id" : 9,
+      "gida_adi" : "Bitkisel Yağlar (Ayçiçek, Soya vb.)",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "1 küçük çay bardağı",
+      "enerji": "900",
+      "karbonhidrat": "0",
+      "protein" : "0",
+      "yag" : "100",
+      "kalsiyum" : "0",
+      "demir" : "0"
+    },
+   {
+       "gida_id" : 10,
+      "gida_adi" : "Kuyruk Yağı",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "3/4 su bardağı",
+      "enerji": "813",
+      "karbonhidrat": "0",
+      "protein" : "0.3",
+      "yag" : "90.2",
+      "kalsiyum" : "0",
+      "demir" : "0"
+    },
+   {
+       "gida_id" : 11,
+      "gida_adi" : "Siyah Zeytin",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "40-50 adet",
+      "enerji": "207",
+      "karbonhidrat": "1.1",
+      "protein" : "1.8",
+      "yag" : "21",
+      "kalsiyum" : "77",
+      "demir" : "1.6"
+    },
+   {
+       "gida_id" : 12,
+      "gida_adi" : "Yeşil Zeytin",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "olcu" : "35-40 adet",
+      "enerji": "144",
+      "karbonhidrat": "2.8",
+      "protein" : "1.5",
+      "yag" : "13.5",
+      "kalsiyum" : "90",
+      "demir" : "2"
+    }
+]
+
+
+
