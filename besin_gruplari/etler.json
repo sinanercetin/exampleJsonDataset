@@ -13,7 +13,7 @@
   },
   {
      "gida_id" : 2,
-    "gida_adi" : "Koyun (Orta Yağlı)",
+    "gida_adi" : "Koyun (Orta Yağlı) hakan hariç",
      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
     "olcu" : "Bir Porsiyon - Kemiksiz",
     "enerji": "267",
