@@ -93,7 +93,19 @@
    "yag":"2,6 ",
    "kalsiyum" : "15,3",
    "demir" : "0,6"
+},
+{ 
+   "gida_id":9, 
+   "gida_adi":"Ton balığı konservesi, az yağlı", 
+   "foto":" ", 
+   "olcu": " ", 
+   "enerji":"174 ",
+   "protein" : "17,3", 
+   "karbonhidrat":"0", 
+   "yag":"12",
+   "kalsiyum" : "29",
+   "demir" : "0,8"
 }
-
+   
 ]
 
