@@ -70,7 +70,90 @@
     "yag":"15",
     "kalsiyum" : "17,5",
     "demir" : "2,3"
-   }
+   },
+   { 
+      "gida_id":7, 
+      "gida_adi":"Kırmızı et yarım yağlı pişmiş",
+      "foto":" ", 
+      "olcu": "", 
+      "enerji":"201,2",
+      "protein" : "26",
+      "karbonhidrat":"0 ", 
+      "yag":"11,25 ",
+      "kalsiyum" : "17,5",
+      "demir" : "2,5"
+   },
+{ 
+   "gida_id":8, 
+   "gida_adi":"Kırmızı et, az yağlı pişmiş", 
+   "foto":" ", 
+   "olcu": " " , 
+   "enerji":"156,2 ",
+   "protein" : "27,875", 
+   "karbonhidrat":"0 ", 
+   "yag":"5 ",
+   "kalsiyum" : "17,5",
+   "demir" : "2,5"
+},
+{ 
+   "gida_id":9, 
+   "gida_adi":"Tavuk göğüs eti, pişmiş ", 
+   "foto":" ", 
+   "olcu": " ", 
+   "enerji":"110 ",
+   "protein" : "25,5", 
+   "karbonhidrat":"0 ", 
+   "yag":"1,25 ",
+   "kalsiyum" : "15",
+   "demir" : "0,5"
+},
+{ 
+   "gida_id":10, 
+   "gida_adi":"Tavuk but, pişmiş ",
+   "foto":" ", 
+   "olcu": " " , 
+   "enerji":"215",
+   "protein" : "28,125", 
+   "karbonhidrat":"0", 
+   "yag":"11,25 ",
+   "kalsiyum" : "17,5",
+   "demir" : "2"
+},
+{ 
+   "gida_id":11,
+   "gida_adi":"Somon, pişmiş ", 
+   "foto":" ",
+   "olcu": " ", 
+   "enerji":"285 ",
+   "protein" : "40", 
+   "karbonhidrat":"0", 
+   "yag":"13,75",
+   "kalsiyum" : "28,75",
+   "demir" : "1,875"
+},
+{ 
+   "gida_id":12, 
+   "gida_adi":"Hamsi, pişmiş ", 
+   "foto":" ", "olcu": " ", 
+   "enerji":"118,6 ",
+   "protein" : "23,2", 
+   "karbonhidrat":"0 ", 
+   "yag":"2,6 ",
+   "kalsiyum" : "98",
+   "demir" : "3,2"
+},
+{ 
+   "gida_id":13, 
+   "gida_adi":"Alabalık, pişmiş", 
+   "foto":" ", 
+   "olcu": " ", 
+   "enerji":"122,6 ",
+   "protein" : "23,8", 
+   "karbonhidrat":"0 ", 
+   "yag":"2,6 ",
+   "kalsiyum" : "15,3",
+   "demir" : "0,6"
+}
 
 ]
 
