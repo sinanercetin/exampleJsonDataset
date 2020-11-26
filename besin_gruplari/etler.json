@@ -1,66 +1,6 @@
-[
-   {
-     "gida_id" : 1,
-    "gida_adi" : "Sığır (Orta Yağlı)",
-      "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
-    "olcu" : "Bir Porsiyon - Kemiksiz",
-    "enerji": "240",
-    "karbonhidrat": "0",
-    "protein" : "18.7",
-    "yag" : "18.2",
-    "kalsiyum" : "8",
-    "demir" : "2.6"
-  },
-  {
-     "gida_id" : 2,
-    "gida_adi" : "Koyun (Orta Yağlı) hakan hariç",
-     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
-    "olcu" : "Bir Porsiyon - Kemiksiz",
-    "enerji": "267",
-    "karbonhidrat": "0",
-    "protein" : "17",
-    "yag" : "21",
-    "kalsiyum" : "7",
-    "demir" : "2.2"
-  },
-  {
-     "gida_id" : 3,
-    "gida_adi" : "Tavuk Eti",
-     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
-    "olcu" : "Bir Porsiyon - Kemiksiz",
-    "enerji": "149",
-    "karbonhidrat": "0",
-    "protein" : "19",
-    "yag" : "8",
-    "kalsiyum" : "15",
-    "demir" : "1.5"
-  },
-   {
-     "gida_id" : 4,
-    "gida_adi" : "Balık (Orta Yağlı)",
-     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
-    "olcu" : "Bir Porsiyon",
-    "enerji": "149",
-    "karbonhidrat": "0",
-    "protein" : "19",
-    "yag" : "8",
-    "kalsiyum" : "50",
-    "demir" : "1.1"
-  },
-   {
-     "gida_id" : 5,
-    "gida_adi" : "Keçi (Orta Yağlı)",
-     "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg",
-    "olcu" : "Bir Porsiyon",
-    "enerji": "157",
-    "karbonhidrat": "0",
-    "protein" : "18.4",
-    "yag" : "9.2",
-    "kalsiyum" : "1",
-    "demir" : "2.2"
-  },
+[   
    { 
-    "gida_id" : 6, 
+    "gida_id" : 1, 
     "gida_adi" : "Kırmızı et, yağlı pişmiş", 
     "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg", 
     "olcu": "100 gramlık porsiyon", 
@@ -72,7 +12,7 @@
     "demir" : "2,3"
    },
    { 
-      "gida_id":7, 
+      "gida_id":2, 
       "gida_adi":"Kırmızı et yarım yağlı pişmiş",
       "foto":" ", 
       "olcu": "", 
@@ -84,7 +24,7 @@
       "demir" : "2,5"
    },
 { 
-   "gida_id":8, 
+   "gida_id":3, 
    "gida_adi":"Kırmızı et, az yağlı pişmiş", 
    "foto":" ", 
    "olcu": " " , 
@@ -96,7 +36,7 @@
    "demir" : "2,5"
 },
 { 
-   "gida_id":9, 
+   "gida_id":4, 
    "gida_adi":"Tavuk göğüs eti, pişmiş ", 
    "foto":" ", 
    "olcu": " ", 
@@ -108,7 +48,7 @@
    "demir" : "0,5"
 },
 { 
-   "gida_id":10, 
+   "gida_id":5, 
    "gida_adi":"Tavuk but, pişmiş ",
    "foto":" ", 
    "olcu": " " , 
@@ -120,7 +60,7 @@
    "demir" : "2"
 },
 { 
-   "gida_id":11,
+   "gida_id":6,
    "gida_adi":"Somon, pişmiş ", 
    "foto":" ",
    "olcu": " ", 
@@ -132,7 +72,7 @@
    "demir" : "1,875"
 },
 { 
-   "gida_id":12, 
+   "gida_id":7, 
    "gida_adi":"Hamsi, pişmiş ", 
    "foto":" ", "olcu": " ", 
    "enerji":"118,6 ",
@@ -143,7 +83,7 @@
    "demir" : "3,2"
 },
 { 
-   "gida_id":13, 
+   "gida_id":8, 
    "gida_adi":"Alabalık, pişmiş", 
    "foto":" ", 
    "olcu": " ", 
