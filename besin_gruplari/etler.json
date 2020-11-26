@@ -58,6 +58,19 @@
     "yag" : "9.2",
     "kalsiyum" : "1",
     "demir" : "2.2"
-  }
+  },
+   { 
+      "gida_id":"6", 
+    "gida_adi":"Kırmızı et, yağlı pişmiş " , 
+    "foto":" ", 
+      "olcu": "100 gramlık porsiyon" , 
+    "enerji":"233,7 " ,
+    "protein" : "24,87", 
+    "karbonhidrat":"0 ", 
+    "yag":"15 ",
+    "kalsiyum" : "17,5",
+    "demir" : "2,375"
+   }
+
 ]
 
