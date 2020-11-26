@@ -61,7 +61,7 @@
   },
    { 
     "gida_id" : "6", 
-    "gida_adi" : "Kırmızı et, yağlı pişmiş " , 
+    "gida_adi" : "Kırmızı et, yağlı pişmiş", 
     "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg", 
     "olcu": "100 gramlık porsiyon", 
     "enerji":"233,7",
