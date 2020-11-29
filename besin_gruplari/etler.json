@@ -105,6 +105,18 @@
    "yag":"12",
    "kalsiyum" : "29",
    "demir" : "0,8"
+},
+   { 
+   "gida_id":10, 
+   "gida_adi":"Demo girdi", 
+   "foto":" ", 
+   "olcu": " ", 
+   "enerji":"1111 ",
+   "protein" : "22", 
+   "karbonhidrat":"3", 
+   "yag":"44",
+   "kalsiyum" : "55",
+   "demir" : "0,666"
 }
    
 ]
