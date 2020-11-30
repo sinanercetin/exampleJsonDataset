@@ -8,6 +8,12 @@ https://dosyasb.saglik.gov.tr/Eklenti/10915,tuber-turkiye-beslenme-rehberipdf.pd
 
 <br>-------------------------
 
-http://ismek.ist/files/ismekOrg/file/2013_hbo_program_modulleri/besin_gruplari.pdf
+http://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Besin%20Gruplar%C4%B1%20(Yiyecek%20%C4%B0%C3%A7ecek).pdf
+<br>
+yedek : http://ismek.ist/files/ismekOrg/file/2013_hbo_program_modulleri/besin_gruplari.pdf
 <br>
 yedek -> http://beykozmem.meb.k12.tr/meb_iys_dosyalar/34/04/974792/dosyalar/2018_06/18203815_besin_gruplari.pdf
+
+<br>
+<br>-------------------------
+U.S. DEPARTMENT OF AGRICULTURE --> https://fdc.nal.usda.gov/
