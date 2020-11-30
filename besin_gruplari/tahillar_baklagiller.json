@@ -52,7 +52,7 @@
 { "gida_id":"7", "gida_adi":"Tam buğday unundan ekmek" , "foto":" ", "olcu":"", "enerji":"212","karbonhidrat":"42","protein":"7,8","yag":"2","kalsiyum":"30","demir":"2,6"},
 { "gida_id":"8", "gida_adi":"Beyaz ekmek" , "foto":" ", "olcu":"", "enerji":"256","karbonhidrat":"54","protein":"8","yag":"0","kalsiyum":"18","demir":"1,4"},
 { "gida_id":"9", "gida_adi":"Pide/lavaş/bazlama" , "foto":" ", "olcu":"", "enerji":"236","karbonhidrat":"48","protein":"7","yag":"2","kalsiyum":"16","demir":"1,2"},
-{ "gida_id":"10", "gida_adi":"Bulgur, pişmiş" , "foto":" ", "olcu":"", "enerji":"83,3","karbonhidrat":"18,8","protein":"3,11111111111111","yag":"0","kalsiyum":"10","demir":"1"},
+{ "gida_id":"10", "gida_adi":"Bulgur, pişmiş" , "foto":" ", "olcu":"", "enerji":"83,3","karbonhidrat":"18,8","protein":"3,1","yag":"0","kalsiyum":"10","demir":"1"},
 { "gida_id":"11", "gida_adi":"Beyaz pirinç, pişmiş" , "foto":" ", "olcu":"", "enerji":"93,3","karbonhidrat":"2","protein":"2","yag":"0","kalsiyum":"2,2","demir":"0,2"},
 { "gida_id":"12", "gida_adi":"Makarna / hazır erişte pişmiş" , "foto":" ", "olcu":"", "enerji":"126,6","karbonhidrat":"25,3","protein":"5,3","yag":"0","kalsiyum":"10,6","demir":"0,5"},
 { "gida_id":"13", "gida_adi":"Yulaflı bisküvi" , "foto":" ", "olcu":"", "enerji":"416,6","karbonhidrat":"50","protein":"7,66","yag":"20","kalsiyum":"40","demir":"2"},
