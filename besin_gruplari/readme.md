@@ -16,5 +16,4 @@ yedek -> http://beykozmem.meb.k12.tr/meb_iys_dosyalar/34/04/974792/dosyalar/2018
 
 
 -------------------------
-<br>
 U.S. DEPARTMENT OF AGRICULTURE --> https://fdc.nal.usda.gov/
