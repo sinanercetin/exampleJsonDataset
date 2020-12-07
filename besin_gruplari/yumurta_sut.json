@@ -26,7 +26,7 @@
   { 
     "gida_id" : "3",
     "gida_adi" : "İnek sütü, tam yağlı" , 
-    "foto" : " ", 
+    "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/inek_sutu.jpg", 
     "olcu" : "", 
     "enerji" : "64,16",
     "karbonhidrat" : "4,5",
@@ -35,11 +35,45 @@
     "kalsiyum" : "120",
     "demir" : "0,04"
   },
-{ "gida_id":"4", "gida_adi":"Yoğurt, tam yağlı" , "foto":" ", "olcu":"", "enerji":"197,5","karbonhidrat":"12,5","protein":"9,875","yag":"11,25","kalsiyum":"390","demir":"0,12"},
-{ "gida_id":"5", "gida_adi":"İnek sütü, yarım yağlı" , "foto":" ", "olcu":"", "enerji":"145","karbonhidrat":"5","protein":"3,4","yag":"1,6","kalsiyum":"120","demir":"0,04"},
-{ "gida_id":"6", "gida_adi":"Yoğurt, yarım yağlı" , "foto":" ", "olcu":"", "enerji":"138,75","karbonhidrat":"46,25","protein":"46,25","yag":"46,25","kalsiyum":"46,25","demir":"46,25"},
-{ "gida_id":"7", "gida_adi":"Kefir, tam yağlı" , "foto":" ", "olcu":"", "enerji":"198,75","karbonhidrat":"4,1","protein":"3,2","yag":"3,3","kalsiyum":"120","demir":"0,08"},
-{ "gida_id":"8", "gida_adi":"Ayran" , "foto":" ", "olcu":"", "enerji":"156,25","karbonhidrat":"52","protein":"52","yag":"52","kalsiyum":"52","demir":"52"},
-{ "gida_id":"9", "gida_adi":"Beyaz peynir, tam yağlı" , "foto":" ", "olcu":"", "enerji":"206,2","karbonhidrat":"68,75","protein":"68,75","yag":"68,75","kalsiyum":"68,75","demir":"68,75"},
-{ "gida_id":"10", "gida_adi":"Kaşar peyniri, tam yağlı " , "foto":" ", "olcu":"", "enerji":"212,5","karbonhidrat":"0","protein":"9,5","yag":"20","kalsiyum":"300","demir":"0,25"}  
+{ 
+  "gida_id":"4", 
+  "gida_adi":"Yoğurt, tam yağlı" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/yogurt-pexels-mustafa-turkeri.jpg", 
+  "olcu":"", "enerji":"197,5","karbonhidrat":"12,5","protein":"9,875","yag":"11,25","kalsiyum":"390","demir":"0,12"},
+
+  { 
+    "gida_id":"5", 
+    "gida_adi":"İnek sütü, yarım yağlı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/inek_sutu.jpg",
+    "olcu":"", "enerji":"145","karbonhidrat":"5","protein":"3,4","yag":"1,6","kalsiyum":"120","demir":"0,04"},
+
+  { 
+    "gida_id":"6", 
+   "gida_adi":"Yoğurt, yarım yağlı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/yogurt-pexels-mustafa-turkeri.jpg", 
+    "olcu":"", "enerji":"138,75","karbonhidrat":"46,25","protein":"46,25","yag":"46,25","kalsiyum":"46,25","demir":"46,25"},
+
+  { 
+    "gida_id":"7", 
+    "gida_adi":"Kefir, tam yağlı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/kefir.jpg", 
+    "olcu":"", "enerji":"198,75","karbonhidrat":"4,1","protein":"3,2","yag":"3,3","kalsiyum":"120","demir":"0,08"},
+
+  { 
+    "gida_id":"8", 
+    "gida_adi":"Ayran" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/ayran-pexels-charlotte-may-5946720.jpg", 
+   "olcu":"", "enerji":"156,25","karbonhidrat":"52","protein":"52","yag":"52","kalsiyum":"52","demir":"52"},
+
+  { 
+    "gida_id":"9", 
+    "gida_adi":"Beyaz peynir, tam yağlı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/beyaz-peynir.jpg", 
+    "olcu":"", "enerji":"206,2","karbonhidrat":"68,75","protein":"68,75","yag":"68,75","kalsiyum":"68,75","demir":"68,75"},
+
+  { 
+    "gida_id":"10", 
+    "gida_adi":"Kaşar peyniri, tam yağlı " , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/kasar-peyniri.jpeg", 
+    "olcu":"", "enerji":"212,5","karbonhidrat":"0","protein":"9,5","yag":"20","kalsiyum":"300","demir":"0,25"}  
 ]
