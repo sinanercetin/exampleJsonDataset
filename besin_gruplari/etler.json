@@ -2,7 +2,7 @@
    { 
     "gida_id" : 1, 
     "gida_adi" : "Kırmızı et, yağlı pişmiş", 
-    "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sigir_eti.jpg", 
+    "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/kirmizi-etler-pexels-mustafa-turkeri.jpg", 
     "olcu": "100 gramlık porsiyon", 
     "enerji":"233,7",
     "protein" : "24,8", 
@@ -14,8 +14,8 @@
    { 
       "gida_id":2, 
       "gida_adi":"Kırmızı et yarım yağlı pişmiş",
-      "foto":" ", 
-      "olcu": "", 
+      "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/kirmizi-etler-pexels-mustafa-turkeri.jpg", 
+      "olcu": "100 gramlık porsiyon", 
       "enerji":"201,2",
       "protein" : "26",
       "karbonhidrat":"0 ", 
@@ -26,8 +26,8 @@
 { 
    "gida_id":3, 
    "gida_adi":"Kırmızı et, az yağlı pişmiş", 
-   "foto":" ", 
-   "olcu": " " , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/kirmizi-etler-pexels-mustafa-turkeri.jpg", 
+   "olcu": "100 gramlık porsiyon" , 
    "enerji":"156,2 ",
    "protein" : "27,875", 
    "karbonhidrat":"0 ", 
@@ -38,7 +38,7 @@
 { 
    "gida_id":4, 
    "gida_adi":"Tavuk göğüs eti, pişmiş ", 
-   "foto":" ", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/tavuk-gogsu.jpg", 
    "olcu": " ", 
    "enerji":"110 ",
    "protein" : "25,5", 
@@ -50,7 +50,7 @@
 { 
    "gida_id":5, 
    "gida_adi":"Tavuk but, pişmiş ",
-   "foto":" ", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/tavuk_butu.jpg", 
    "olcu": " " , 
    "enerji":"215",
    "protein" : "28,125", 
@@ -62,7 +62,7 @@
 { 
    "gida_id":6,
    "gida_adi":"Somon, pişmiş ", 
-   "foto":" ",
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/somon-pexels-valeria-boltneva.jpg",
    "olcu": " ", 
    "enerji":"285 ",
    "protein" : "40", 
@@ -74,7 +74,8 @@
 { 
    "gida_id":7, 
    "gida_adi":"Hamsi, pişmiş ", 
-   "foto":" ", "olcu": " ", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/hamsi-pexels-mehmet-bulent-eraltan.jpg", 
+   "olcu": " ", 
    "enerji":"118,6 ",
    "protein" : "23,2", 
    "karbonhidrat":"0 ", 
@@ -85,8 +86,8 @@
 { 
    "gida_id":8, 
    "gida_adi":"Alabalık, pişmiş", 
-   "foto":" ", 
-   "olcu": " ", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/alabalik.jpg", 
+   "olcu": "100 Gram", 
    "enerji":"122,6 ",
    "protein" : "23,8", 
    "karbonhidrat":"0 ", 
@@ -97,7 +98,7 @@
 { 
    "gida_id":9, 
    "gida_adi":"Ton balığı konservesi, az yağlı", 
-   "foto":" ", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/ton_baligi.jpg", 
    "olcu": " ", 
    "enerji":"174 ",
    "protein" : "17,3", 
@@ -105,18 +106,6 @@
    "yag":"12",
    "kalsiyum" : "29",
    "demir" : "0,8"
-},
-   { 
-   "gida_id":10, 
-   "gida_adi":"Demo girdi", 
-   "foto":" ", 
-   "olcu": " ", 
-   "enerji":"1111 ",
-   "protein" : "22", 
-   "karbonhidrat":"3", 
-   "yag":"44",
-   "kalsiyum" : "55",
-   "demir" : "0,666"
 }
    
 ]
