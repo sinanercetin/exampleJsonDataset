@@ -27,7 +27,7 @@
   { 
     "gida_id":"3", 
     "gida_adi":"Badem içi" , 
-    "foto":" ", 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/badem-pixabay.jpg", 
     "olcu":"2/3 su bardağı", 
     "enerji":"643",
     "karbonhidrat":"16,9",
@@ -36,28 +36,143 @@
     "kalsiyum":"254",
     "demir":"4,4"
   },
-{ "gida_id":"4", "gida_adi":"Kestane" , "foto":" ", "olcu":"3/4 su bardağı", "enerji":"201","karbonhidrat":"43,6","protein":"2,8","yag":"1,5","kalsiyum":"30","demir":"1"},
-{ "gida_id":"5", "gida_adi":"Fındık içi" , "foto":" ", "olcu":"3/4 su bardağı", "enerji":"634","karbonhidrat":"16,7","protein":"12,6","yag":"62,4","kalsiyum":"209","demir":"3,4"},
-{ "gida_id":"6", "gida_adi":"Yer fıstığı" , "foto":" ", "olcu":"2/3 su bardağı", "enerji":"589","karbonhidrat":"18,8","protein":"25,5","yag":"44","kalsiyum":"66","demir":"3"},
-{ "gida_id":"7", "gida_adi":"Çam fıstığı" , "foto":" ", "olcu":"2/3 su bardağı", "enerji":"617","karbonhidrat":"2,4","protein":"35,2","yag":"51","kalsiyum":"14","demir":"4,4"},
-{ "gida_id":"8", "gida_adi":"Yeşil fıstık - Antep Fıstığı" , "foto":" ", "olcu":"3/4 su bardağı", "enerji":"637","karbonhidrat":"15,5","protein":"20","yag":"53,8","kalsiyum":"140","demir":"14"},
-{ "gida_id":"9", "gida_adi":"Ceviz içi" , "foto":" ", "olcu":"1 su bardağı", "enerji":"704","karbonhidrat":"13,5","protein":"15","yag":"64,4","kalsiyum":"84","demir":"2,1"},
-{ "gida_id":"10", "gida_adi":"Susam" , "foto":" ", "olcu":"1/2 su bardağı", "enerji":"622","karbonhidrat":"13,9","protein":"20","yag":"50","kalsiyum":"975","demir":"10,4"},
-{ "gida_id":"11", "gida_adi":"Karpuz çekirdeği" , "foto":" ", "olcu":"2/3 su bardağı", "enerji":"393","karbonhidrat":"9,4","protein":"32,3","yag":"45,7","kalsiyum":"50","demir":"8,4"},
-{ "gida_id":"12", "gida_adi":"Chia Tohumu" , "foto":" ", "olcu":"", "enerji":"486","karbonhidrat":"42","protein":"17","yag":"31","kalsiyum":"631","demir":"7,7"},
-{ "gida_id":"13", "gida_adi":"Kaju" , "foto":" ", "olcu":"", "enerji":"553","karbonhidrat":"30","protein":"18","yag":"44","kalsiyum":"37","demir":"6,7"},
-{ "gida_id":"14", "gida_adi":"Çörek Otu" , "foto":" ", "olcu":"", "enerji":"344","karbonhidrat":"52","protein":"16","yag":"15","kalsiyum":"1196","demir":"18,5"},
-{ "gida_id":"15", "gida_adi":"Pikan Cevizi" , "foto":" ", "olcu":"", "enerji":"690","karbonhidrat":"14","protein":"9","yag":"72","kalsiyum":"70","demir":"2,5"},
-{ "gida_id":"16", "gida_adi":"Keten" , "foto":" ", "olcu":"", "enerji":"533","karbonhidrat":"29","protein":"18","yag":"42","kalsiyum":"255","demir":"5,7"},
-{ "gida_id":"17", "gida_adi":"Tahin" , "foto":" ", "olcu":"", "enerji":"594","karbonhidrat":"21","protein":"17","yag":"54","kalsiyum":"426","demir":"9"},
-{ "gida_id":"18", "gida_adi":"Zencefil" , "foto":" ", "olcu":"", "enerji":"79","karbonhidrat":"18","protein":"1,8","yag":"0,8","kalsiyum":"16","demir":"0,6"},
-{ "gida_id":"19", "gida_adi":"Haşhaş Tohumu" , "foto":" ", "olcu":"", "enerji":"524","karbonhidrat":"28","protein":"18","yag":"42","kalsiyum":"1438","demir":"9,8"},
-{ "gida_id":"20", "gida_adi":"Kimyon" , "foto":" ", "olcu":"", "enerji":"374","karbonhidrat":"44","protein":"18","yag":"22","kalsiyum":"931","demir":"66,4"},
-{ "gida_id":"21", "gida_adi":"Kırmızı Toz Biber" , "foto":" ", "olcu":"", "enerji":"281","karbonhidrat":"50","protein":"13","yag":"14","kalsiyum":"330","demir":"17,3"},
-{ "gida_id":"22", "gida_adi":"Karabiber" , "foto":" ", "olcu":"", "enerji":"251","karbonhidrat":"64","protein":"10","yag":"3,3","kalsiyum":"443","demir":"9,7"},
-{ "gida_id":"23", "gida_adi":"Köri" , "foto":" ", "olcu":"", "enerji":"325","karbonhidrat":"58","protein":"13","yag":"14","kalsiyum":"478","demir":"29,6"},
-{ "gida_id":"24", "gida_adi":"Paprika" , "foto":" ", "olcu":"", "enerji":"282","karbonhidrat":"54","protein":"14","yag":"13","kalsiyum":"229","demir":"21,1"},
-{ "gida_id":"25", "gida_adi":"Kekik" , "foto":" ", "olcu":"", "enerji":"101","karbonhidrat":"24","protein":"6","yag":"1,7","kalsiyum":"405","demir":"17,5"},
-{ "gida_id":"26", "gida_adi":"Safran" , "foto":" ", "olcu":"", "enerji":"310","karbonhidrat":"65","protein":"11","yag":"6","kalsiyum":"111","demir":"11,1"}
+{ 
+  "gida_id":"4", "gida_adi":"Kestane" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kestane-pixabay.jpg", 
+  "olcu":"3/4 su bardağı", "enerji":"201","karbonhidrat":"43,6","protein":"2,8","yag":"1,5","kalsiyum":"30","demir":"1"
+},
+
+  { 
+    "gida_id":"5", "gida_adi":"Fındık içi" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/findik-pixabay.jpg", 
+    "olcu":"3/4 su bardağı", "enerji":"634","karbonhidrat":"16,7","protein":"12,6","yag":"62,4","kalsiyum":"209","demir":"3,4"
+  },
+
+  { 
+    "gida_id":"6", "gida_adi":"Yer fıstığı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/yer-fistigi-pixabay.jpg", 
+    "olcu":"2/3 su bardağı", "enerji":"589","karbonhidrat":"18,8","protein":"25,5","yag":"44","kalsiyum":"66","demir":"3"
+  },
+
+  { 
+    "gida_id":"7", "gida_adi":"Çam fıstığı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/cam-fistigi-pixabay.jpg", 
+    "olcu":"2/3 su bardağı", "enerji":"617","karbonhidrat":"2,4","protein":"35,2","yag":"51","kalsiyum":"14","demir":"4,4"
+  },
+
+  { 
+    "gida_id":"8", 
+    "gida_adi":"Yeşil fıstık - Antep Fıstığı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/antep-fistigi-pixabay.jpg", 
+    "olcu":"3/4 su bardağı", "enerji":"637","karbonhidrat":"15,5","protein":"20","yag":"53,8","kalsiyum":"140","demir":"14"
+  },
+
+  { 
+    "gida_id":"9", "gida_adi":"Ceviz içi" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/ceviz-pixabay.jpg", 
+    "olcu":"1 su bardağı", "enerji":"704","karbonhidrat":"13,5","protein":"15","yag":"64,4","kalsiyum":"84","demir":"2,1"
+  },
+
+  { 
+    "gida_id":"10", "gida_adi":"Susam" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/susam-pixabay.jpg", 
+    "olcu":"1/2 su bardağı", "enerji":"622","karbonhidrat":"13,9","protein":"20","yag":"50","kalsiyum":"975","demir":"10,4"
+  },
+
+  { 
+    "gida_id":"11", "gida_adi":"Karpuz çekirdeği" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/karpuz-cekirdegi-pixabay.jpg", 
+    "olcu":"2/3 su bardağı", "enerji":"393","karbonhidrat":"9,4","protein":"32,3","yag":"45,7","kalsiyum":"50","demir":"8,4"
+  },
+
+  { 
+    "gida_id":"12", "gida_adi":"Chia Tohumu" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/chia-tohumu-pixabay.jpg", 
+    "olcu":"", "enerji":"486","karbonhidrat":"42","protein":"17","yag":"31","kalsiyum":"631","demir":"7,7"
+  },
+
+  { 
+    "gida_id":"13", "gida_adi":"Kaju" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kaju-pixabay.jpg", 
+    "olcu":"", "enerji":"553","karbonhidrat":"30","protein":"18","yag":"44","kalsiyum":"37","demir":"6,7"
+  },
+
+  { 
+    "gida_id":"14", "gida_adi":"Çörek Otu" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/corek-otu-pixabay.jpg", 
+    "olcu":"", "enerji":"344","karbonhidrat":"52","protein":"16","yag":"15","kalsiyum":"1196","demir":"18,5"
+  },
+
+  { 
+    "gida_id":"15", "gida_adi":"Pikan Cevizi" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/pikan-cevizi-pixabay.jpg", 
+    "olcu":"", "enerji":"690","karbonhidrat":"14","protein":"9","yag":"72","kalsiyum":"70","demir":"2,5"
+  },
+
+  { 
+    "gida_id":"16", "gida_adi":"Keten Tohumu" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/keten-tohumu-pixabay.jpg", 
+    "olcu":"", "enerji":"533","karbonhidrat":"29","protein":"18","yag":"42","kalsiyum":"255","demir":"5,7"
+  },
+
+  { 
+    "gida_id":"17", "gida_adi":"Tahin" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/tahin.jpg", 
+    "olcu":"", "enerji":"594","karbonhidrat":"21","protein":"17","yag":"54","kalsiyum":"426","demir":"9"
+  },
+
+  { 
+    "gida_id":"18", "gida_adi":"Zencefil" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/zencefil-pixabay.jpg", 
+    "olcu":"", "enerji":"79","karbonhidrat":"18","protein":"1,8","yag":"0,8","kalsiyum":"16","demir":"0,6"
+  },
+
+  { 
+    "gida_id":"19", "gida_adi":"Haşhaş Tohumu" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/hashas-tohumu-pixabay.jpg", 
+    "olcu":"", "enerji":"524","karbonhidrat":"28","protein":"18","yag":"42","kalsiyum":"1438","demir":"9,8"
+  },
+
+  { 
+    "gida_id":"20", "gida_adi":"Kimyon" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kimyon.jpg", 
+    "olcu":"", "enerji":"374","karbonhidrat":"44","protein":"18","yag":"22","kalsiyum":"931","demir":"66,4"
+  },
+
+  { 
+    "gida_id":"21", "gida_adi":"Kırmızı Toz Biber" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kirmizi-toz-biber.jpg", 
+    "olcu":"", "enerji":"281","karbonhidrat":"50","protein":"13","yag":"14","kalsiyum":"330","demir":"17,3"
+  },
+
+  { 
+    "gida_id":"22", "gida_adi":"Karabiber" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/karabiber-pixabay.jpg", 
+    "olcu":"", "enerji":"251","karbonhidrat":"64","protein":"10","yag":"3,3","kalsiyum":"443","demir":"9,7"
+  },
+
+  { 
+    "gida_id":"23", "gida_adi":"Köri" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kori-pixabay.jpg", 
+    "olcu":"", "enerji":"325","karbonhidrat":"58","protein":"13","yag":"14","kalsiyum":"478","demir":"29,6"
+  },
+
+  { 
+    "gida_id":"24", "gida_adi":"Paprika" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/paprika-pixabay.jpg", 
+    "olcu":"", "enerji":"282","karbonhidrat":"54","protein":"14","yag":"13","kalsiyum":"229","demir":"21,1"
+  },
+
+  { 
+    "gida_id":"25", "gida_adi":"Kekik" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/kekik.jpg", 
+    "olcu":"", "enerji":"101","karbonhidrat":"24","protein":"6","yag":"1,7","kalsiyum":"405","demir":"17,5"
+  },
+
+  { 
+    "gida_id":"26", "gida_adi":"Safran" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/kuruyemis/safran-pixabay.jpg", 
+    "olcu":"", "enerji":"310","karbonhidrat":"65","protein":"11","yag":"6","kalsiyum":"111","demir":"11,1"
+  }
 ]
 
