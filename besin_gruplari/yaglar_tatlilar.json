@@ -50,7 +50,7 @@
    {
        "gida_id" : 5,
       "gida_adi" : "Tahin Helva",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/tahin-helva.jpg",
       "olcu" : "3 Kibrit kutusu kadar",
       "enerji": "516",
       "karbonhidrat": "53.5",
@@ -62,7 +62,7 @@
    {
        "gida_id" : 6,
       "gida_adi" : "Bal",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/bal-pixabay.jpg",
       "olcu" : "4-5 yemek kaşığı",
       "enerji": "315",
       "karbonhidrat": "78.4",
@@ -74,7 +74,7 @@
    {
        "gida_id" : 7,
       "gida_adi" : "Pekmez",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/pekmez.jpg",
       "olcu" : "6-7 yemek kaşığı",
       "enerji": "293",
       "karbonhidrat": "70.6",
@@ -86,7 +86,7 @@
    {
        "gida_id" : 8,
       "gida_adi" : "Zeytinyağı",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/zeytinyagi-pixabay.jpg",
       "olcu" : "1 küçük çay bardağı",
       "enerji": "900",
       "karbonhidrat": "0",
@@ -98,7 +98,7 @@
    {
        "gida_id" : 9,
       "gida_adi" : "Bitkisel Yağlar (Ayçiçek, Soya vb.)",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/bitkisel-yaglar.jpg",
       "olcu" : "1 küçük çay bardağı",
       "enerji": "900",
       "karbonhidrat": "0",
@@ -110,7 +110,7 @@
    {
        "gida_id" : 10,
       "gida_adi" : "Kuyruk Yağı",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/kuyruk-yagi.jpg",
       "olcu" : "3/4 su bardağı",
       "enerji": "813",
       "karbonhidrat": "0",
@@ -122,7 +122,7 @@
    {
        "gida_id" : 11,
       "gida_adi" : "Siyah Zeytin",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/siyah-zeytin-pixabay.jpg",
       "olcu" : "40-50 adet",
       "enerji": "207",
       "karbonhidrat": "1.1",
@@ -134,7 +134,7 @@
    {
        "gida_id" : 12,
       "gida_adi" : "Yeşil Zeytin",
-      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/recel.jpg",
+      "foto" : "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yaglar_tatlilar/yesil-zeytin-pixabay.jpg",
       "olcu" : "35-40 adet",
       "enerji": "144",
       "karbonhidrat": "2.8",
