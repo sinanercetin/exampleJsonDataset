@@ -50,7 +50,7 @@
 { 
    "gida_id":5, 
    "gida_adi":"Tavuk but, pişmiş ",
-   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/tavuk_butu.jpg", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/tavuk-butu.jpg", 
    "olcu": " " , 
    "enerji":"215",
    "protein" : "28,125", 
@@ -98,7 +98,7 @@
 { 
    "gida_id":9, 
    "gida_adi":"Ton balığı konservesi, az yağlı", 
-   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/ton_baligi.jpg", 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/ton-baligi.jpg", 
    "olcu": " ", 
    "enerji":"174 ",
    "protein" : "17,3", 
