@@ -33,6 +33,10 @@ Vitaminler: https://sbu.saglik.gov.tr/Ekutuphane/Yayin/373
   <p>https://docplayer.biz.tr/110835938-Mineraller-dr-diyetisyen-hulya-yardimci.html
   </p>
   
+  <p>  https://www.medicana.com.tr/saglik-rehberi-detay/12119/vitamin-nedir-vitaminler-hangi-besinlerde-bulunur
+  </p>
+  
+  
  
   
   
