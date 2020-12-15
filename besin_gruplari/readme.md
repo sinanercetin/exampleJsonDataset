@@ -24,6 +24,12 @@ Vitaminler: https://sbu.saglik.gov.tr/Ekutuphane/Yayin/373
  <p>http://bilheal.bilkent.edu.tr/aykonu/AY2002/April2002/vitaturk.htm
   </p>
   
+   <p>https://acikders.ankara.edu.tr/pluginfile.php/61130/mod_resource/content/0/B5-%20B6%20-B11%2CB12.pdf
+  </p>
+  
+  
+  
+  
    <p>Yedek
   </p>
 
