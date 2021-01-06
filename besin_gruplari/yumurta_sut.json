@@ -159,5 +159,18 @@
     "yag":"5,6",
     "kalsiyum":"-",
     "demir":"-"
-  } 
+  },
+  
+  { "gida_id":"14", "gida_adi":"Beyaz Peynir, yağsız" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/beyaz-peynir-yagsiz.jpg", 
+   "olcu": "" , "enerji":"99 " ,"karbonhidrat":"3,8 " ,"protein" : "19",  "yag":"0,7 " ,"kalsiyum" : "96","demir" : "0,4"},
+  
+{ "gida_id":"15", "gida_adi":"Krema, %20 yağlı" , 
+ "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/krema.jpg", 
+ "olcu": " " , "enerji":"204 " ,"karbonhidrat":"3,7 " ,"protein" : "2,9",  "yag":"20 " ,"kalsiyum" : "99","demir" : "0,1"},
+  
+{ "gida_id":"16", "gida_adi":"Ördek Yumurtası" , 
+ "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/ordek-yumurtasi-pixabay.jpg", 
+ "olcu": " " , "enerji":"185 " ,"karbonhidrat":"1,5 " ,"protein" : "12,8",  "yag":"13,8 " ,"kalsiyum" : "64","demir" : "3,9"}
+
 ]
