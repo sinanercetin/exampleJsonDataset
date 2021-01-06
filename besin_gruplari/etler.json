@@ -106,7 +106,40 @@
    "yag":"12",
    "kalsiyum" : "29",
    "demir" : "0,8"
-}
+},
+   
+   { "gida_id":"10", "gida_adi":"Balık Yağı" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/balik-yagi.jpg", 
+    "olcu": " " , "enerji":"902 " ,"karbonhidrat":"0 " ,"protein" : "0",  "yag":"100 " ,"kalsiyum" : "0","demir" : "0"},
+
+   { "gida_id":"11", "gida_adi":"Karaciğer" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/karaciger-pixabay.jpg", 
+    "olcu": " " , "enerji":"164 " ,"karbonhidrat":"3,8 " ,"protein" : "26",  "yag":"4,4 " ,"kalsiyum" : "10","demir" : "17,9"},
+
+   { "gida_id":"12", "gida_adi":"Kalp" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/kalp-pixabay.jpg", 
+    "olcu": " " , "enerji":"116 " ,"karbonhidrat":"2 " ,"protein" : "16,5",  "yag":"4,5 " ,"kalsiyum" : "10","demir" : "4,5"},
+
+   { "gida_id":"13", "gida_adi":"Böbrek" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/bobrek.jpg", 
+    "olcu": " " , "enerji":"131 " ,"karbonhidrat":"0,8 " ,"protein" : "16",  "yag":"7 " ,"kalsiyum" : "13","demir" : "6"},
+
+   { "gida_id":"14", "gida_adi":"Dil" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/dil-pixabay.jpg", 
+    "olcu": " " , "enerji":"194 " ,"karbonhidrat":"0,5 " ,"protein" : "16,2",  "yag":"14 " ,"kalsiyum" : "12","demir" : "2"},
+
+   { "gida_id":"15", "gida_adi":"Sosis" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/sosis-pixabay.jpg", 
+    "olcu": " " , "enerji":"309 " ,"karbonhidrat":"1,8 " ,"protein" : "12,5",  "yag":"27,6 " ,"kalsiyum" : "7","demir" : "1,9"},
+
+   { "gida_id":"16", "gida_adi":"Salam" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/salam-pixabay.jpg", 
+    "olcu": " " , "enerji":"304 " ,"karbonhidrat":"1,1 " ,"protein" : "12,1",  "yag":"27,5 " ,"kalsiyum" : "7","demir" : "1,8"},
+
+   { "gida_id":"17", "gida_adi":"Akciğer" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/etler/akciger.jpeg", 
+    "olcu": " " , "enerji":"81 " ,"karbonhidrat":"0 " ,"protein" : "14,6",  "yag":"2,4 " ,"kalsiyum" : "16","demir" : "6,6"}
+
    
 ]
 
