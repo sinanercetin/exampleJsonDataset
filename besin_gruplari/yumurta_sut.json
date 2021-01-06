@@ -125,7 +125,7 @@
   { 
     "gida_id":"11", 
     "gida_adi":"Keçi Sütü", 
-    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/kasar-peyniri.jpeg", 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/keci-sutu-pixabay.jpg", 
     "olcu":"", 
     "enerji":"70",
     "karbonhidrat":"5",
@@ -138,7 +138,7 @@
   { 
     "gida_id":"12", 
     "gida_adi":"Manda Sütü", 
-    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/kasar-peyniri.jpeg", 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/manda-sutu-pixabay.jpg", 
     "olcu":"", 
     "enerji":"101",
     "karbonhidrat":"5,3",
@@ -151,7 +151,7 @@
   { 
     "gida_id":"13", 
     "gida_adi":"Çökelek", 
-    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/kasar-peyniri.jpeg", 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/yumurta_sut/cokelek.jpg", 
     "olcu":"", 
     "enerji":"215",
     "karbonhidrat":"3,2",
