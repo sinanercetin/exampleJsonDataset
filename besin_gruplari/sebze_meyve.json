@@ -107,8 +107,61 @@
     "olcu": " " , "enerji":"44,8 " ,"karbonhidrat":"8,8 " ,"protein" : "0,96",  "yag":"0 " ,"kalsiyum" : "43,2","demir" : "0,4"
   },
   
+  { "gida_id":"19", "gida_adi":"Havuç suyu" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/havuc-suyu-pixabay.jpg", 
+   "olcu": " " , "enerji":"22 " ,"karbonhidrat":"4 " ,"protein" : "0,86",  "yag":"0 " ,"kalsiyum" : "42","demir" : "2"
+  },
+  
+{ 
+  "gida_id":"20", "gida_adi":"Domates suyu" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/domates-suyu-pixabay.jpg", 
+  "olcu": " " , "enerji":"14,6 " ,"karbonhidrat":"2 " ,"protein" : "0,8",  "yag":"0 " ,"kalsiyum" : "14","demir" : "0,46"
+  },
+  
+{ 
+  "gida_id":"21", "gida_adi":"Mango" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/mango-unsplash.jpg", 
+  "olcu": " " , "enerji":"59 " ,"karbonhidrat":"15 " ,"protein" : "0,8",  "yag":"0,4 " ,"kalsiyum" : "11","demir" : "0,2"
+  },
+  
+{ 
+  "gida_id":"22", "gida_adi":"Ayva" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/ayva-pixabay.jpg", 
+  "olcu": " " , "enerji":"56 " ,"karbonhidrat":"15 " ,"protein" : "0,4",  "yag":"0,1 " ,"kalsiyum" : "11","demir" : "0,7"
+  },
+  
+{ 
+  "gida_id":"23", "gida_adi":"Nar" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/nar-pixabay.jpg", 
+  "olcu": " " , "enerji":"83 " ,"karbonhidrat":"19 " ,"protein" : "1,7",  "yag":"1,2 " ,"kalsiyum" : "10","demir" : "0,3"
+  },
+  
+{ 
+  "gida_id":"24", "gida_adi":"Avokado" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/avokado-pixabay.jpg", 
+  "olcu": " " , "enerji":"160 " ,"karbonhidrat":"9 " ,"protein" : "2",  "yag":"15 " ,"kalsiyum" : "12","demir" : "0,6"
+  },
+  
+{ 
+  "gida_id":"25", "gida_adi":"Dut" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/dut-pixabay.jpg", 
+  "olcu": " " , "enerji":"43 " ,"karbonhidrat":"10 " ,"protein" : "1,4",  "yag":"0,4 " ,"kalsiyum" : "39","demir" : "1,9"
+  },
+  
+{ 
+  "gida_id":"26", "gida_adi":"Ahududu" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/ahududu-pixabay.jpg", 
+  "olcu": " " , "enerji":"52 " ,"karbonhidrat":"12 " ,"protein" : "1,2",  "yag":"0,7 " ,"kalsiyum" : "25","demir" : "0,7"
+  },
+  
+{ 
+  "gida_id":"27", "gida_adi":"Greyfurt" , 
+  "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/greyfurt-pixabay.jpg", 
+  "olcu": " " , "enerji":"42 " ,"karbonhidrat":"11 " ,"protein" : "0,8",  "yag":"0,1 " ,"kalsiyum" : "22","demir" : "0,1"
+  },
+  
   {
-       "gida_id" : 19,
+       "gida_id" : 28,
       "gida_adi" : "Bakla",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bakla.jpg",
       "olcu" : "13 Adet",
@@ -120,7 +173,7 @@
       "demir" : "1"
     },
     {
-       "gida_id" : 20,
+       "gida_id" : 29,
       "gida_adi" : "Bamya",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bamya.jpg",
       "olcu" : "100 gr",
