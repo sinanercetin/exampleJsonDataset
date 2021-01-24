@@ -142,5 +142,33 @@
     "gida_id":"20", "gida_adi":"Patlamış mısır / popcorn" , 
     "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tahillar_baklagiller/popcorn-pixabay.jpg", 
     "olcu":"", "enerji":"366,6","karbonhidrat":"66,6","protein":"12,6","yag":"6,6","kalsiyum":"13,3","demir":"1,6"
+  },
+  
+  { 
+    "gida_id":"21", "gida_adi":"Soya Fasulyesi" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tahillar_baklagiller/soya-pixabay.jpg", 
+   "olcu": " " , "enerji":"403 " ,"karbonhidrat":"33,5 " ,"protein" : "34,1",  "yag":"17,7 " ,"kalsiyum" : "226","demir" : "8,4"
+  },
+  
+
+  { 
+    "gida_id":"22", "gida_adi":"Börülce" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tahillar_baklagiller/borulce.jpg", 
+   "olcu": " " , "enerji":"353 " ,"karbonhidrat":"57,2 " ,"protein" : "23,1",  "yag":"1,2 " ,"kalsiyum" : "77","demir" : "7"
+  },
+  
+
+  { 
+    "gida_id":"23", "gida_adi":"Barbunya" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tahillar_baklagiller/barbunya.jpg", 
+   "olcu": " " , "enerji":"346 " ,"karbonhidrat":"57 " ,"protein" : "21",  "yag":"1 " ,"kalsiyum" : "128","demir" : "7,6"
+  },
+  
+
+  { 
+    "gida_id":"24", "gida_adi":"Tarhana" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/tahillar_baklagiller/tarhana.jpg", 
+    "olcu": " " , "enerji":"329 " ,"karbonhidrat":"58,8 " ,"protein" : "14,1",  "yag":"3,9 " ,"kalsiyum" : "78","demir" : "1"
   }
+
 ]
