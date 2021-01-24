@@ -1,6 +1,114 @@
 [
+  
+  { 
+    "gida_id":"1", "gida_adi":"Çilek" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/cilek-pixabay.jpg", 
+    "olcu": " " , "enerji":"32 " ,"karbonhidrat":"5,3 " ,"protein" : "0,8",  "yag":"0,66 " ,"kalsiyum" : "25,3","demir" : "0,93"
+  },
+  
+  { 
+    "gida_id":"2", "gida_adi":"Muz" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/muz-pixabay.jpg", 
+    "olcu": " " , "enerji":"95 " ,"karbonhidrat":"21,4 " ,"protein" : "1,1",  "yag":"0 " ,"kalsiyum" : "9","demir" : "0,6"
+  },
+  
+  { 
+    "gida_id":"3", "gida_adi":"Elma" ,
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/elma-pixabay.jpg", 
+    "olcu": " " , "enerji":"52 " ,"karbonhidrat":"0,3 " ,"protein" : "11,3",  "yag":"0,6 " ,"kalsiyum" : "7,3","demir" : "0,4"
+  },
+
+  { 
+    "gida_id":"4", "gida_adi":"Portakal" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/portakal-pixabay.jpg", 
+    "olcu": " " , "enerji":"47,3 " ,"karbonhidrat":"1 " ,"protein" : "9,3",  "yag":"0 " ,"kalsiyum" : "42","demir" : "0,4"
+  },
+
+  { 
+    "gida_id":"5", "gida_adi":"Armut" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/pear-pixabay.jpg", 
+    "olcu": " " , "enerji":"52,6 " ,"karbonhidrat":"0,5 " ,"protein" : "12,6",  "yag":"0,6 " ,"kalsiyum" : "9,3","demir" : "0,2"
+  },
+
+  { "gida_id":"6", "gida_adi":"Şeftali" , 
+   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/seftali-pixabay.jpg", 
+   "olcu": " " , "enerji":"40,6 " ,"karbonhidrat":"0,8 " ,"protein" : "8,6",  "yag":"0 " ,"kalsiyum" : "0,6","demir" : "0,4"
+  },
+
+  { 
+    "gida_id":"7", "gida_adi":"Mandalina" ,
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/mandalina-pixabay.jpg",
+    "olcu": " " , "enerji":"50 " ,"karbonhidrat":"0,6 " ,"protein" : "10",  "yag":"0,6 " ,"kalsiyum" : "33,3","demir" : "0,3"
+  },
+
+  { 
+    "gida_id":"8", "gida_adi":"İncir", 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/incir-pixabay.jpg",
+    "olcu": " " , "enerji":"63,3 " ,"karbonhidrat":"1,2 " ,"protein" : "12,6",  "yag":"0,6 " ,"kalsiyum" : "54","demir" : "0,6"
+  },
+
+  { 
+    "gida_id":"9", "gida_adi":"Kivi" ,
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/kivi-pixabay.jpg",
+    "olcu": " " , "enerji":"60,6 " ,"karbonhidrat":"1 " ,"protein" : "10,6",  "yag":"0,6 " ,"kalsiyum" : "38","demir" : "0,8"
+  },
+  
+  { 
+    "gida_id":"10", "gida_adi":"Ananas" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/ananas-pixabay.jpg", 
+    "olcu": " " , "enerji":"58,6 " ,"karbonhidrat":"13,3 " ,"protein" : "0,46",  "yag":"0 " ,"kalsiyum" : "16","demir" : "0,4"
+  },
+
+  { 
+    "gida_id":"11", "gida_adi":"Kavun" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/kavun-pixabay.jpg", 
+    "olcu": " " , "enerji":"26 " ,"karbonhidrat":"5,3 " ,"protein" : "0,86",  "yag":"0 " ,"kalsiyum" : "14","demir" : "0,53"
+  },
+
+  { 
+    "gida_id":"12", "gida_adi":"Karpuz" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/karpuz-pixabay.jpg", 
+    "olcu": " " , "enerji":"38 " ,"karbonhidrat":"8 " ,"protein" : "0,6",  "yag":"0 " ,"kalsiyum" : "11,3","demir" : "0,4"
+  },
+
+  { 
+    "gida_id":"13", "gida_adi":"Kiraz" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/kiraz-pixabay.jpg", 
+    "olcu": " " , "enerji":"63,3 " ,"karbonhidrat":"13,3 " ,"protein" : "0,86",  "yag":"0,66 " ,"kalsiyum" : "17,3","demir" : "0,4"
+  },  
+
+  { 
+    "gida_id":"14", "gida_adi":"Üzüm" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/uzum-pixabay.jpg", 
+    "olcu": " " , "enerji":"71,3 " ,"karbonhidrat":"15,3 " ,"protein" : "0,66",  "yag":"0,66 " ,"kalsiyum" : "18","demir" : "0,53"
+  },
+
+  { 
+    "gida_id":"15", "gida_adi":"Malta eriği - Yeni dünya" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/malta-erigi-pixabay.jpg", 
+    "olcu": " " , "enerji":"53,3 " ,"karbonhidrat":"12 " ,"protein" : "0,53",  "yag":"0 " ,"kalsiyum" : "19,3","demir" : "0,33"
+  },
+
+  { 
+    "gida_id":"16", "gida_adi":"Erik" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/erik-pixabay.jpg", 
+    "olcu": " " , "enerji":"47,3 " ,"karbonhidrat":"10 " ,"protein" : "0,6",  "yag":"0 " ,"kalsiyum" : "14","demir" : "0,46"
+  },  
+
+  { 
+    "gida_id":"17", "gida_adi":"Trabzon hurması" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/trabzon-hurmasi-pixabay.jpg", 
+    "olcu": " " , "enerji":"125 " ,"karbonhidrat":"33,75 " ,"protein" : "0,75",  "yag":"0 " ,"kalsiyum" : "27,5","demir" : "2,5"
+  },
+
+  { 
+    "gida_id":"18", "gida_adi":"Portakal suyu (sıkılmış)" , 
+    "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/portakal-suyu-pixabay.jpg", 
+    "olcu": " " , "enerji":"44,8 " ,"karbonhidrat":"8,8 " ,"protein" : "0,96",  "yag":"0 " ,"kalsiyum" : "43,2","demir" : "0,4"
+  },
+  
   {
-       "gida_id" : 1,
+       "gida_id" : 19,
       "gida_adi" : "Bakla",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bakla.jpg",
       "olcu" : "13 Adet",
@@ -12,7 +120,7 @@
       "demir" : "1"
     },
     {
-       "gida_id" : 2,
+       "gida_id" : 20,
       "gida_adi" : "Bamya",
       "foto": "https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/bamya.jpg",
       "olcu" : "100 gr",
@@ -22,34 +130,6 @@
       "yag" : "0.2",
       "kalsiyum" : "78",
       "demir" : "1.1"
-    },
-  
-  { "gida_id":"3", "gida_adi":"Elma" ,
-   "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/elma-pixabay.jpg", 
-   "olcu": " " , "enerji":"52 " ,"karbonhidrat":"0,3 " ,"protein" : "11,3",  "yag":"0,6 " ,"kalsiyum" : "7,3","demir" : "0,4"},
-
-  { "gida_id":"4", "gida_adi":"Portakal" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/portakal-pixabay.jpg", 
- "olcu": " " , "enerji":"47,3 " ,"karbonhidrat":"1 " ,"protein" : "9,3",  "yag":"0 " ,"kalsiyum" : "42","demir" : "0,4"},
-
-  { "gida_id":"5", "gida_adi":"Armut" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/pear-pixabay.jpg", 
- "olcu": " " , "enerji":"52,6 " ,"karbonhidrat":"0,5 " ,"protein" : "12,6",  "yag":"0,6 " ,"kalsiyum" : "9,3","demir" : "0,2"},
-
-  { "gida_id":"6", "gida_adi":"Şeftali" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/seftali-pixabay.jpg", 
- "olcu": " " , "enerji":"40,6 " ,"karbonhidrat":"0,8 " ,"protein" : "8,6",  "yag":"0 " ,"kalsiyum" : "0,6","demir" : "0,4"},
-
-  { "gida_id":"7", "gida_adi":"Mandalina" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/mandalina-pixabay.jpg", 
- "olcu": " " , "enerji":"50 " ,"karbonhidrat":"0,6 " ,"protein" : "10",  "yag":"0,6 " ,"kalsiyum" : "33,3","demir" : "0,3"},
-
-  { "gida_id":"8", "gida_adi":"İncir" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/incir-pixabay.jpg", 
- "olcu": " " , "enerji":"63,3 " ,"karbonhidrat":"1,2 " ,"protein" : "12,6",  "yag":"0,6 " ,"kalsiyum" : "54","demir" : "0,6"},
-
-  { "gida_id":"9", "gida_adi":"Kivi" , 
- "foto":"https://raw.githubusercontent.com/sinanercetin/exampleJsonDataset/main/besin_gruplari/images/sebze_meyve/kivi-pixabay.jpg", 
- "olcu": " " , "enerji":"60,6 " ,"karbonhidrat":"1 " ,"protein" : "10,6",  "yag":"0,6 " ,"kalsiyum" : "38","demir" : "0,8"}
+    }
 
 ]
